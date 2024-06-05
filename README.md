@@ -9,7 +9,7 @@ Check out Module 2, Regression, of IBM's Machine Learning with Python Coursera c
 
 # Project deliverables:
 
-Univariate linear regression with gradient descent pyhton code (also saved as a .py file):
+# Univariate linear regression with gradient descent pyhton code (also saved as a .py file):
 
 ```python
 
@@ -64,7 +64,7 @@ print(regr.coef_)
 print(regr.intercept_)
 ```
 
-Multivariate linear regression with sklearn linear_model python code (also saved as a .py file):
+# Multivariate linear regression with sklearn linear_model python code (also saved as a .py file):
 
 ```python
 
